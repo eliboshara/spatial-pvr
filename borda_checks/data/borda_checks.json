@@ -1,0 +1,12 @@
+{
+ "square": {
+  "beta_at_center": 0.7110308221429097,
+  "largest_step_along_rays": -0.0009274296368340096,
+  "largest_step_along_segments": -0.0005905183116952095
+ },
+ "counterexample": {
+  "gain_positive_up_to": 0.10980503216111384,
+  "largest_gain_at": 0.06090699131291353,
+  "largest_gain": 0.0010620604881788898
+ }
+}
